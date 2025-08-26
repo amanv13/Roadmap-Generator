@@ -13,9 +13,8 @@ The project is **fully extensible** – to add new domains or tasks, simply edit
 
 ## 📂 Project Structure
 📦 Roadmap-Generator
-┣📂 data
-┃ ┣ roadmap_data.json 
-┃ ┗ tasks_map.json 
+┣ roadmap_data.json 
+┗ tasks_map.json 
 ┣ 📓 roadmap_generator.ipynb
 ┣ README.md
 ┗ requirements.txt
