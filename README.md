@@ -37,7 +37,7 @@ The project is **fully extensible** – to add new domains or tasks, simply edit
    pip install -r requirements.txt
    
 5. Open the Jupyter Notebook:
-   jupyter notebook roadmap_notebook.ipynb
+   jupyter notebook roadmap_generator.ipynb
    
 
 ## 🧪 Example Roadmaps
