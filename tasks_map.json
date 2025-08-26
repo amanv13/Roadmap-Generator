@@ -1,0 +1,169 @@
+{
+  "Data Science": {
+    "beginner": {
+      "Python Basics": {
+        "tasks": [
+          "Install Python + Jupyter; set up environment",
+          "Learn variables, types, conditionals, loops, functions",
+          "Practice 30–40 beginner problems (HackerRank/LeetCode easy)",
+          "Write 2 mini scripts that automate simple tasks"
+        ],
+        "suggested_resources": [
+          "Automate the Boring Stuff (Ch 1–6)",
+          "Python Docs: Tutorial",
+          "Real Python: Basics",
+          "https://www.youtube.com/watch?v=rfscVS0vtbw"  
+        ]
+      },
+      "Numpy & Pandas": {
+        "tasks": [
+          "Create/reshape arrays; vectorized ops; broadcasting",
+          "Load CSVs; select/filter/sort; add/drop columns",
+          "GroupBy, merge/join, pivot, handling missing values",
+          "Mini exercise: clean a messy dataset end-to-end"
+        ],
+        "suggested_resources": [
+          "Kaggle: Pandas Course",
+          "NumPy User Guide (Basics)",
+          "Pandas Getting Started",
+          "https://www.youtube.com/watch?v=vmEHCJofslg"  
+        ]
+      },
+      "Data Visualization": {
+        "tasks": [
+          "Matplotlib essentials: line/bar/scatter/hist, axes, labels",
+          "Plotly basics: interactive charts",
+          "Choose appropriate chart types; annotate and style clearly",
+          "Mini EDA: visualize 6–8 insights from a dataset"
+        ],
+        "suggested_resources": [
+          "Matplotlib Tutorials",
+          "Plotly Express Guide",
+          "Storytelling with Data (book)",
+          "https://www.youtube.com/watch?v=DAQNHzOcO5A"  
+        ]
+      },
+      "Statistics Fundamentals": {
+        "tasks": [
+          "Mean/median/variance/std; distributions (normal/bernoulli)",
+          "Sampling, CLT intuition",
+          "Hypothesis testing basics, p-values, confidence intervals",
+          "Correlation vs causation; simple experiments"
+        ],
+        "suggested_resources": [
+          "StatQuest (videos)",
+          "Khan Academy: Statistics",
+          "Think Stats (book)",
+          "https://www.youtube.com/watch?v=xxpc-HPKN28"  
+        ]
+      },
+      "Intro to Machine Learning": {
+        "tasks": [
+          "Train/test split; baseline models (LR, KNN, DT)",
+          "Metrics: accuracy/precision/recall/F1, MAE/RMSE",
+          "Cross-validation; simple hyperparameter tuning",
+          "Mini project: tabular classification or regression"
+        ],
+        "suggested_resources": [
+          "scikit-learn: Getting Started",
+          "Kaggle: Intro to ML",
+          "Hands-On ML (selected chapters)",
+          "https://www.youtube.com/watch?v=7eh4d6sabA0"  
+        ]
+      },
+      "Projects": {
+        "tasks": [
+          "Pick a public dataset + define clear question",
+          "EDA → feature selection → model → evaluation",
+          "Write a README with results and limitations",
+          "Publish on GitHub; include visuals"
+        ],
+        "suggested_resources": [
+          "Kaggle Datasets",
+          "Cookiecutter Data Science (structure)",
+          "GitHub Guides: README best practices",
+          "https://www.youtube.com/watch?v=5rNu16O3YNE"  
+        ]
+      }
+    }
+  },
+
+  "Web Development": {
+    "beginner": {
+      "HTML, CSS Basics": {
+        "tasks": [
+          "HTML structure + semantic tags",
+          "CSS selectors, box model, spacing",
+          "Flexbox essentials; clone a simple landing page"
+        ],
+        "suggested_resources": [
+          "MDN: HTML",
+          "MDN: CSS",
+          "Flexbox Froggy",
+          "https://www.youtube.com/watch?v=UB1O30fR-EE"  
+        ]
+      },
+      "JavaScript Fundamentals": {
+        "tasks": [
+          "Variables, types, functions, scope",
+          "DOM selection/manipulation; events",
+          "Build a small interactive widget (e.g., todo list)"
+        ],
+        "suggested_resources": [
+          "MDN: JavaScript Guide",
+          "You Don’t Know JS (selected)",
+          "JavaScript30 (exercises)",
+          "https://www.youtube.com/watch?v=PkZNo7MFNFg"  
+        ]
+      },
+      "Responsive Design": {
+        "tasks": [
+          "Mobile-first workflow; media queries",
+          "CSS Grid basics; common layouts",
+          "Refactor a page to be responsive across breakpoints"
+        ],
+        "suggested_resources": [
+          "MDN: Responsive Design",
+          "CSS Grid Garden",
+          "https://www.youtube.com/watch?v=srvUrASNj0s"  
+        ]
+      },
+      "Intro to Backend (Python/Node.js)": {
+        "tasks": [
+          "REST basics; routes; request/response",
+          "Build a tiny API with Flask or Express",
+          "Return JSON; test endpoints with Postman"
+        ],
+        "suggested_resources": [
+          "Flask or Express official docs",
+          "Postman Learning Center",
+          "https://www.youtube.com/watch?v=Z1RJmh_OqeA"  
+        ]
+      },
+      "Databases": {
+        "tasks": [
+          "Relational vs NoSQL concepts",
+          "CRUD with SQL (SQLite/Postgres)",
+          "Connect backend to DB; read/write endpoints"
+        ],
+        "suggested_resources": [
+          "SQLBolt",
+          "SQLite Docs / Postgres Tutorial",
+          "https://www.youtube.com/watch?v=HXV3zeQKqGY"  
+        ]
+      },
+      "Mini Project": {
+        "tasks": [
+          "Fullstack app: auth-less MVP with 2–3 features",
+          "Deploy (Render/Netlify/Vercel)",
+          "Write README + screenshots"
+        ],
+        "suggested_resources": [
+          "Vercel/Netlify Docs",
+          "Render Docs",
+          "https://www.youtube.com/watch?v=jQoj6cfyC7I"  
+        ]
+      }
+    }
+  }
+}

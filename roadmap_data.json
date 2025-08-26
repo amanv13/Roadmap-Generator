@@ -1,0 +1,46 @@
+{
+  "Data Science": {
+    "beginner": [
+      "Python Basics",
+      "Numpy & Pandas",
+      "Data Visualization",
+      "Statistics Fundamentals",
+      "Intro to Machine Learning",
+      "Projects"
+    ],
+    "intermediate": [
+      "Advanced Machine Learning",
+      "Feature Engineering",
+      "Model Deployment",
+      "Capstone Project"
+    ],
+    "advanced": [
+      "Deep Learning",
+      "Natural Language Processing",
+      "Big Data Tools",
+      "Research Projects"
+    ]
+  },
+  "Web Development": {
+    "beginner": [
+      "HTML, CSS Basics",
+      "JavaScript Fundamentals",
+      "Responsive Design",
+      "Intro to Backend (Python/Node.js)",
+      "Databases",
+      "Mini Project"
+    ],
+    "intermediate": [
+      "Frontend Frameworks (React/Vue)",
+      "REST APIs",
+      "Authentication & Security",
+      "Deployment"
+    ],
+    "advanced": [
+      "Fullstack Architecture",
+      "Cloud Deployment",
+      "Scalability & Performance",
+      "Capstone Project"
+    ]
+  }
+}
