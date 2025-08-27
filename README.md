@@ -30,7 +30,7 @@ The project is **fully extensible** – to add new domains or tasks, simply edit
 
 ## 🛠️ Installation
 1. Clone this repository:
-   git clone https://github.com/yourusername/Roadmap-Generator.git
+   git clone https://github.com/amanv13/Roadmap-Generator.git
    cd Roadmap-Generator
    
 3. Install dependencies:
